@@ -1,7 +1,0 @@
-{
-    "enabled": false,
-    "driver": "docker",
-    "driverConfig": {
-        "socketPath": "/var/run/docker.sock"
-    }
-}
